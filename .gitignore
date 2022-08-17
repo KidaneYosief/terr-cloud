@@ -1,0 +1,8 @@
+**/target/
+**/.DS_Store
+**/.terraform*
+**/*.backup
+**/*.pub
+**/*.tfstate
+**/*.dot
+**/*.pem
